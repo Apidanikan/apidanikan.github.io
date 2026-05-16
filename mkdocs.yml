@@ -7,8 +7,8 @@ extra_css:
   - css/style.css
 theme:
   name: material
-  logo: img/icon.png
-  favicon: img/icon.png
+  logo: css/user.png
+  favicon: css/user.png
   features:
     - navigation.instant
     - navigation.indexes
